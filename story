@@ -8,3 +8,5 @@ The Hare accepted with the assumption that he would easily beat the Tortoise.
 
 (git diff tells difference between staged and local files)
 (git diff --staged tells the difference comitted and staged)
+
+They both trained for hours to prepare, and the excitement level in the jungle was like never before!
